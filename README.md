@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexyOliveira
 - 👀 I’m interested in Web Development in Front-End and Back-End
-- 🌱 I’m currently learning GIT/HTML/CSS/JS
+- 🌱 I’m currently learning GIT/HTML/CSS/JS/jest
 - 🧭 You can reach me through cupofteaoficial@gmail.com
 - 📫 currently living in Brazil - Tramandaí RS, but I have disposal to move.
 
