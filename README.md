@@ -4,8 +4,8 @@
 - 🧭 You can reach me through https://www.linkedin.com/in/alexandre-oliveira-devweb/
 - 📫 currently living in Brazil - Tramandaí RS, but I have disposal to move.
 
-![Alexandre's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=AlexyOliveira&show_icons=true&theme=dracula)
- [![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=AlexyOliveira&layout=auto)](https://github.com/anuraghazra/github-readme-stats)
+![Alexandre's GitHub stats](https://github-readme-stats-sigma-five.ruby-one.vercel.app/api?username=AlexyOliveira&show_icons=true&theme=dracula)
+ [![Top Langs](https://github-readme-stats-sigma-five.ruby-one.vercel.app/api/top-langs/?username=AlexyOliveira&layout=auto)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 AlexyOliveira/AlexyOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
