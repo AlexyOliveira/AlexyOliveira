@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexyOliveira
 - 👀 I’m interested in Web Development in Front-End and Back-End
 - 🌱 I’m currently learning GIT/HTML/CSS/JS/jest
-- 🧭 You can reach me through [cupofteaoficial@gmail.com](https://www.linkedin.com/in/alexandre-oliveira-devweb/)
+- 🧭 You can reach me through [https://www.linkedin.com/in/alexandre-oliveira-devweb/]
 - 📫 currently living in Brazil - Tramandaí RS, but I have disposal to move.
 
 ![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexyOliveira&show_icons=true&theme=dracula)
