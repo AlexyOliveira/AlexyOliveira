@@ -1,9 +1,9 @@
 # 💫 About Me:
 - 👋 Hi, I’m @AlexyOliveira
 - 👀 I’m interested in Web Development in Front-End and Back-End
-- 🌱 I’m currently learning GIT/HTML/CSS/JS/jest
+- 🌱 I’m currently learning Computer Science
 - 🧭 You can reach me through https://www.linkedin.com/in/alexandre-oliveira-devweb/
-- 🧭 You can reach me through Email: cupofteaoficial@gmail.com
+- 🧭 You can reach me through alexandreoliveiradev7@gmail.com
 - 📫 currently living in Brazil - Tramandaí RS, but I have disposal to move.
 
 
@@ -16,6 +16,9 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlexyOliveira&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexyOliveira&theme=react&hide_border=false)<br/>
