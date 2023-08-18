@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @AlexyOliveira
 - 👀 I’m interested in Web Development in Front-End and Back-End
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Python
 - 🧭 You can reach me through https://www.linkedin.com/in/alexandre-oliveira-devweb/
 - 🧭 You can reach me through alexandreoliveiradev7@gmail.com
 - 📫 currently living in Brazil - Tramandaí RS, but I have disposal to move.
